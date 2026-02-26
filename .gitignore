@@ -1,2 +1,4 @@
-# Excel notes
-Projects/AEC Routemaster/~$AEC Routemaster.xlsx
+# E.g. Projects/AEC Routemaster/AEC Routemaster.dst.bak
+*.bak
+# E.g. Projects/AEC Routemaster/~$AEC Routemaster.xlsx
+~$*.*
